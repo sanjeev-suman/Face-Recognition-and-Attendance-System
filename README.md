@@ -7,3 +7,8 @@ HOW TO RUN PROJECT :
 @ Add Attendance.py and detect_mask_video.py to the Script.
 @ Run the Project Script one by one.
 @ OpenCV will be open accordingly.
+
+
+
+Downlaod complete project from here
+https://ln5.sync.com/dl/40811fa90/py93urg7-s2qy73tw-w5xe2fy6-6du2wh59
